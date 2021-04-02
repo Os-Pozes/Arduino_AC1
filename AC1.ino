@@ -18,3 +18,13 @@ void setup()
   pinMode(vermelho, OUTPUT);
   pinMode(verde, OUTPUT);
   pinMode(azul, OUTPUT);
+Serial.begin(9600);
+  //nome do grupo
+  Serial.println("AC1 - Meu Primeiro Projeto 2021");
+  Serial.println("                           V1.0");
+  Serial.println("Grupo: bullfrog               ");
+}
+//acender e apagar led vermelho
+void loop() if((millis() - lastDebounceTime1) > botaoDelay && digitalRead(botao1)){
+  	Serial.println("botao 1 apertado");
+    ledVermelho(true);
