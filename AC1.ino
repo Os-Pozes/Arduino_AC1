@@ -33,6 +33,11 @@ Serial.println("botao 1 apertado");
   	lastDebounceTime1 = millis();
   }
 if((millis() - lastDebounceTime2) > botaoDelay && digitalRead(botao2)){
+	int getLuminosidade(){
+  	int luminosidade;
+	luminosidade = map(analogRead(A1), 6, 619, -3, 10);
+  	return luminosidade;
+}
   Serial.println("luminosidade elevada");
   }else{
   	ledVerde(false);
