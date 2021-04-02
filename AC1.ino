@@ -72,3 +72,8 @@ int getTemperatura(){
 return temperaturaC;
 } 
 //funcao de leitura da luminosidade
+int getLuminosidade(){
+  	int luminosidade;
+	luminosidade = map(analogRead(A1), 6, 619, -3, 10);
+  	return luminosidade;
+}
