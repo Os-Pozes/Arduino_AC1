@@ -28,3 +28,7 @@ Serial.println("                           V1.0");
 void loop()
 {
   if((millis() - lastDebounceTime1) > botaoDelay && digitalRead(botao1)){
+Serial.println("botao 1 apertado");
+    ledVermelho(true);
+  	lastDebounceTime1 = millis();
+  }
