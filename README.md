@@ -20,6 +20,5 @@ Adicionamos um botão para ligar e desligar o LED vermelho que indica o produto,
 
 ![](https://github.com/Os-Pozes/Arduino_AC1/blob/main/8a17cec2-6353-4222-adf7-026e969a95d4.jpg) Mateo morou no rio e fora do pais, adora viajar internacionalmente.
 
-![](https://github.com/Os-Pozes/Arduino_AC1/blob/main/b0450719-729b-41dc-9e78-da8132f79a90.jpg) A Maria Luiza curte djonga e Naruto.
-
+![](https://github.com/Os-Pozes/Arduino_AC1/blob/main/b0450719-729b-41dc-9e78-da8132f79a90.jpg) A  Maria Luiza tem 16 anos  e gosta muito de moda.
 ![](https://github.com/Os-Pozes/Arduino_AC1/blob/main/fotos%20do%20grupo%5D.jpg) O Gabriel torce pro Sao Paulo e curte basquet.
