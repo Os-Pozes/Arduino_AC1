@@ -46,3 +46,6 @@ Serial.println("temepatura elevada");
   }
   	if(getLuminosidade() > 5){
     ledVerde(true);
+Serial.println("luminosidade elevada");
+  }else{
+  	ledVerde(false);
