@@ -11,3 +11,9 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 ## **O PROBLEMA:** 
 
 uma fabrica de costura teve um problema de tecnologia dentro de seu estabelecimento e chamou o grupo dos pozes para resolver este problema.
+![](
+![](
+![](
+![](
+![](
+![](
