@@ -10,3 +10,17 @@ const int botao2 = 3;
 unsigned long lastDebounceTime1 = 0;
 unsigned long lastDebounceTime2 = 0;
 const int botaoDelay = 100;
+void setup()
+{
+  pinMode(A0, INPUT);
+  pinMode(A1, INPUT);
+  //saida led azul
+  pinMode(vermelho, OUTPUT);
+  pinMode(verde, OUTPUT);
+  pinMode(azul, OUTPUT);
+  Serial.begin(9600);
+  //nome do grupo
+  Serial.println("AC1 - Meu Primeiro Projeto 2021");
+  Serial.println("                           V1.0");
+  Serial.println("Grupo: bullfrog               ");
+}
