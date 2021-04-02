@@ -51,4 +51,7 @@ Serial.println("temepatura elevada");
     ledVerde(true);
 Serial.println("luminosidade elevada");
   }else{
-  	ledVerde(false);
+  	ledSerial.println("luminosidade ideal");
+  }
+  delay(10);
+}Verde(false);
