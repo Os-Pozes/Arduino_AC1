@@ -55,3 +55,6 @@ Serial.println("luminosidade elevada");
   }
   delay(10);
 }Verde(false);
+void ledVermelho(bool estado){
+ digitalWrite(vermelho,estado);
+}
