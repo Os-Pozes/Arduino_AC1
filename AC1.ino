@@ -10,3 +10,11 @@ const int botao2 = 3;
 unsigned long lastDebounceTime1 = 0;
 unsigned long lastDebounceTime2 = 0;
 const int botaoDelay = 100;
+void setup()
+{
+  pinMode(A0, INPUT);
+  pinMode(A1, INPUT);
+  //saida led azul
+  pinMode(vermelho, OUTPUT);
+  pinMode(verde, OUTPUT);
+  pinMode(azul, OUTPUT);
