@@ -12,7 +12,7 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 
 uma fabrica de costura teve um problema de tecnologia dentro de seu estabelecimento e chamou o grupo dos pozes para resolver este problema.
 ![](https://github.com/Os-Pozes/Arduino_AC1/blob/main/076d14b1-0cf3-40cd-8664-76d575df40fd.jpg) Luigi um jovem garoto que adora video games e musica internacional 
-![](
+![](https://github.com/Os-Pozes/Arduino_AC1/blob/main/4bdfbb79-c469-4ea6-adc4-dc555f35a8cc.jpg) Kaue torce para o corinthians e curte funk 
 ![](
 ![](
 ![](
