@@ -24,3 +24,7 @@ Serial.begin(9600);
 Serial.println("                           V1.0");
   Serial.println("Grupo: bullfrog               ");
 }
+//acender e apagar led vermelho
+void loop()
+{
+  if((millis() - lastDebounceTime1) > botaoDelay && digitalRead(botao1)){
