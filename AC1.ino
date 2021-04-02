@@ -58,3 +58,6 @@ Serial.println("luminosidade elevada");
 void ledVermelho(bool estado){
  digitalWrite(vermelho,estado);
 }
+void ledAzul(bool estado){
+	digitalWrite(azul,estado);
+}
