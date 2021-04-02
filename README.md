@@ -9,8 +9,8 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 ![](https://github.com/Os-Pozes/Arduino_AC1/blob/main/2021-04-01.png)
 
 ## **O PROBLEMA:** 
-
 uma fabrica de costura teve um problema de tecnologia dentro de seu estabelecimento e chamou o grupo dos pozes para resolver este problema.
+Adicionamos um botão para ligar e desligar o LED vermelho que indica o produto, tornamos o fio do botão totalmente funcional e editamos alguns códigos.
 
 ![](https://github.com/Os-Pozes/Arduino_AC1/blob/main/076d14b1-0cf3-40cd-8664-76d575df40fd.jpg) Luigi um jovem garoto que adora video games e musica internacional.
 
