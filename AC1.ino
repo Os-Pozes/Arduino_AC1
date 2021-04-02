@@ -39,3 +39,10 @@ Serial.println("botao 2 apertado");
   }
   if(getTemperatura() > 15){
     ledAzul(true);
+Serial.println("temepatura elevada");
+  }else{
+  	ledAzul(false);
+    Serial.println("temepatura ideal");
+  }
+  	if(getLuminosidade() > 5){
+    ledVerde(true);
