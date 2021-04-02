@@ -21,3 +21,6 @@ void setup()
 Serial.begin(9600);
   //nome do grupo
   Serial.println("AC1 - Meu Primeiro Projeto 2021");
+Serial.begin(9600);
+  //nome do grupo
+  Serial.println("AC1 - Meu Primeiro Projeto 2021");
